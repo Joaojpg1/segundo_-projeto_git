@@ -1,0 +1,26 @@
+body{
+    margin: 2%;
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    font-family: "Lobster", serif;
+}
+h2{
+    font-family: "Merriweather", serif;
+}
+.topo{
+    background-color: antiquewhite;
+    padding: 5px;
+    text-align: center;
+
+}
+.sobre{
+    background-color: salmon;
+}
+#botao{
+    margin-left: 64px;
+    background: salmon;
+    font-family: "Lobster", serif;
+    padding:15px;
+    border:none;
+}
